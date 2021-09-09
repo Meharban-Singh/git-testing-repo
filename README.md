@@ -1,3 +1,3 @@
 # git-testing-repo
 
-Meharban Singh was here. 
+- Meharban Singh was here. 
